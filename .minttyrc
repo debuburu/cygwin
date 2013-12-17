@@ -1,0 +1,8 @@
+BoldAsFont=no
+Columns=110
+Rows=40
+Font=Consolas
+Locale=ja_JP
+Charset=UTF-8
+Transparency=medium
+OpaqueWhenFocused=yes
