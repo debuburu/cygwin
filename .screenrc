@@ -96,6 +96,9 @@ bind I login on
 bind O login off
 bind } history
 
+startup_message off
+defscrollback 10000
+termcapinfo xterm* ti@:te@
 defkanji utf8
 kanji utf8
 escape ^t^t
